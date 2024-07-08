@@ -2,7 +2,7 @@ import openpyxl
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
-TOKEN = '7475740177:AAEjeLBqPK4j8h6KMVw8nKMEAoTSMqJPsNs' 
+TOKEN = '74w8nKMEAoTSMqJPsNs' 
 
 # Загрузка книги Excel
 try:
